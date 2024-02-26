@@ -1,0 +1,11 @@
+C:\Users\swaid\OneDrive\Desktop\ProjectRepository\trial\trial.Core\bin\Debug\net7.0\TrialRepository.Core.deps.json
+C:\Users\swaid\OneDrive\Desktop\ProjectRepository\trial\trial.Core\bin\Debug\net7.0\TrialRepository.Core.dll
+C:\Users\swaid\OneDrive\Desktop\ProjectRepository\trial\trial.Core\bin\Debug\net7.0\TrialRepository.Core.pdb
+C:\Users\swaid\OneDrive\Desktop\ProjectRepository\trial\trial.Core\obj\Debug\net7.0\TrialRepository.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swaid\OneDrive\Desktop\ProjectRepository\trial\trial.Core\obj\Debug\net7.0\TrialRepository.Core.AssemblyInfoInputs.cache
+C:\Users\swaid\OneDrive\Desktop\ProjectRepository\trial\trial.Core\obj\Debug\net7.0\TrialRepository.Core.AssemblyInfo.cs
+C:\Users\swaid\OneDrive\Desktop\ProjectRepository\trial\trial.Core\obj\Debug\net7.0\TrialRepository.Core.csproj.CoreCompileInputs.cache
+C:\Users\swaid\OneDrive\Desktop\ProjectRepository\trial\trial.Core\obj\Debug\net7.0\TrialRepository.Core.dll
+C:\Users\swaid\OneDrive\Desktop\ProjectRepository\trial\trial.Core\obj\Debug\net7.0\refint\TrialRepository.Core.dll
+C:\Users\swaid\OneDrive\Desktop\ProjectRepository\trial\trial.Core\obj\Debug\net7.0\TrialRepository.Core.pdb
+C:\Users\swaid\OneDrive\Desktop\ProjectRepository\trial\trial.Core\obj\Debug\net7.0\ref\TrialRepository.Core.dll

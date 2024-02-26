@@ -1,0 +1,17 @@
+C:\Users\swaid\OneDrive\Desktop\ProjectRepository\trial\Repository.EF\bin\Debug\net7.0\Repository.EF.deps.json
+C:\Users\swaid\OneDrive\Desktop\ProjectRepository\trial\Repository.EF\bin\Debug\net7.0\Repository.EF.runtimeconfig.json
+C:\Users\swaid\OneDrive\Desktop\ProjectRepository\trial\Repository.EF\bin\Debug\net7.0\Repository.EF.dll
+C:\Users\swaid\OneDrive\Desktop\ProjectRepository\trial\Repository.EF\bin\Debug\net7.0\Repository.EF.pdb
+C:\Users\swaid\OneDrive\Desktop\ProjectRepository\trial\Repository.EF\obj\Debug\net7.0\Repository.EF.csproj.AssemblyReference.cache
+C:\Users\swaid\OneDrive\Desktop\ProjectRepository\trial\Repository.EF\obj\Debug\net7.0\Repository.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swaid\OneDrive\Desktop\ProjectRepository\trial\Repository.EF\obj\Debug\net7.0\Repository.EF.AssemblyInfoInputs.cache
+C:\Users\swaid\OneDrive\Desktop\ProjectRepository\trial\Repository.EF\obj\Debug\net7.0\Repository.EF.AssemblyInfo.cs
+C:\Users\swaid\OneDrive\Desktop\ProjectRepository\trial\Repository.EF\obj\Debug\net7.0\Repository.EF.csproj.CoreCompileInputs.cache
+C:\Users\swaid\OneDrive\Desktop\ProjectRepository\trial\Repository.EF\obj\Debug\net7.0\Repository.EF.dll
+C:\Users\swaid\OneDrive\Desktop\ProjectRepository\trial\Repository.EF\obj\Debug\net7.0\refint\Repository.EF.dll
+C:\Users\swaid\OneDrive\Desktop\ProjectRepository\trial\Repository.EF\obj\Debug\net7.0\Repository.EF.pdb
+C:\Users\swaid\OneDrive\Desktop\ProjectRepository\trial\Repository.EF\obj\Debug\net7.0\Repository.EF.genruntimeconfig.cache
+C:\Users\swaid\OneDrive\Desktop\ProjectRepository\trial\Repository.EF\obj\Debug\net7.0\ref\Repository.EF.dll
+C:\Users\swaid\OneDrive\Desktop\ProjectRepository\trial\Repository.EF\bin\Debug\net7.0\TrialRepository.Core.dll
+C:\Users\swaid\OneDrive\Desktop\ProjectRepository\trial\Repository.EF\bin\Debug\net7.0\TrialRepository.Core.pdb
+C:\Users\swaid\OneDrive\Desktop\ProjectRepository\trial\Repository.EF\obj\Debug\net7.0\Reposito.8BC3D93F.Up2Date
